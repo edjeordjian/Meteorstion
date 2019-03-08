@@ -1,0 +1,66 @@
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Juego\Juego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\disparo.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\explocion.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\victory.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Cartel.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\presstart.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\titulo.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\corazonfinal.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\disparo.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\Fondo.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\meteorito.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navefinal.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navejugador2.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\roca.xnb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.wma
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.exe
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.pdb
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Jorge\Documents\Visual Studio 2012\Projects\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.pdb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\disparo.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\explocion.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\victory.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Cartel.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\presstart.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\titulo.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\corazonfinal.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\disparo.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\Fondo.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\meteorito.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navefinal.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navejugador2.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\roca.xnb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.wma
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.exe
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.pdb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.exe
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\disparo.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\explocion.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\victory.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Cartel.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\presstart.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\titulo.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\corazonfinal.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\disparo.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\Fondo.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\fondo2.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\meteorito.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navefinal.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navejugador2.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\roca.xnb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.wma
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.exe
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Juego.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.csprojResolveAssemblyReference.cache
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.exe
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\obj\x86\Debug\Juego.pdb

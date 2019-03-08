@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cancion.mp3</Source>
+      <Name>cancion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.xnb</Output>
+      <Extra>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\cancion.wma</Extra>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>disparo.wav</Source>
+      <Name>disparo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\disparo.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>explocion.wav</Source>
+      <Name>explocion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\explocion.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>victory.wav</Source>
+      <Name>victory</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\victory.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Cartel.spritefont</Source>
+      <Name>Cartel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Cartel.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>presstart.spritefont</Source>
+      <Name>presstart</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\presstart.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>titulo.spritefont</Source>
+      <Name>titulo</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\titulo.xnb</Output>
+      <Time>2015-10-23T20:13:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\corazonfinal.png</Source>
+      <Name>Imagenes\corazonfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\corazonfinal.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\disparo.png</Source>
+      <Name>Imagenes\disparo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\disparo.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Fondo.jpg</Source>
+      <Name>Imagenes\Fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\Fondo.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\fondo2.png</Source>
+      <Name>Imagenes\fondo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\fondo2.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\meteorito.png</Source>
+      <Name>Imagenes\meteorito</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\meteorito.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\navefinal.png</Source>
+      <Name>Imagenes\navefinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navefinal.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\navejugador2.png</Source>
+      <Name>Imagenes\navejugador2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\navejugador2.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\roca.png</Source>
+      <Name>Imagenes\roca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\Imagenes\roca.xnb</Output>
+      <Time>2015-10-23T20:13:56-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{11EC4A1C-91A4-4A65-A1A7-1B3F4ADC716A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\JuegoContent\</RootDirectory>
+      <LoggerRootDirectory>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\Juego\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-29T21:58:24.5836921-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

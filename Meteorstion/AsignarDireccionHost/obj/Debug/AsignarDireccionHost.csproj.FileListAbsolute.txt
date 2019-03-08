@@ -1,0 +1,5 @@
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\AsignarDireccionHost\bin\Debug\AsignarDireccionHost.exe.config
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\AsignarDireccionHost\bin\Debug\AsignarDireccionHost.exe
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\AsignarDireccionHost\bin\Debug\AsignarDireccionHost.pdb
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\AsignarDireccionHost\obj\Debug\AsignarDireccionHost.exe
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\AsignarDireccionHost\obj\Debug\AsignarDireccionHost.pdb

@@ -1,0 +1,16 @@
+Content\cancion.xnb
+Content\cancion.wma
+Content\disparo.xnb
+Content\explocion.xnb
+Content\victory.xnb
+Content\Cartel.xnb
+Content\presstart.xnb
+Content\titulo.xnb
+Content\Imagenes\corazonfinal.xnb
+Content\Imagenes\disparo.xnb
+Content\Imagenes\Fondo.xnb
+Content\Imagenes\fondo2.xnb
+Content\Imagenes\meteorito.xnb
+Content\Imagenes\navefinal.xnb
+Content\Imagenes\navejugador2.xnb
+Content\Imagenes\roca.xnb

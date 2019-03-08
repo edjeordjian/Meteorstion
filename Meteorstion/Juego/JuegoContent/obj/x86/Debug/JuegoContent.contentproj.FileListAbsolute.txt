@@ -1,0 +1,2 @@
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Juego\JuegoContent\obj\x86\Debug\JuegoContent.contentprojResolveAssemblyReference.cache
+D:\E.T. N° 37\Meteorstion\Meteorstion\Juego\JuegoContent\obj\x86\Debug\JuegoContent.contentprojResolveAssemblyReference.cache

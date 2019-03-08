@@ -1,0 +1,20 @@
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe.config
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Meteorstion\bin\Debug\Meteorstion.pdb
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Meteorstion\obj\Debug\Meteorstion.exe
+c:\users\jorge\documents\visual studio 2012\Projects\Meteorstion\Meteorstion\obj\Debug\Meteorstion.pdb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe.config
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\obj\Debug\Meteorstion.exe
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\obj\Debug\Meteorstion.pdb
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\obj\Debug\Meteorstion.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe
+C:\Users\Jorge\Desktop\E.T.Nº 37\Meteorstion\Meteorstion\bin\Debug\Meteorstion.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe.config
+D:\E.T. N° 37\Meteorstion\Meteorstion\obj\Debug\Meteorstion.exe
+D:\E.T. N° 37\Meteorstion\Meteorstion\obj\Debug\Meteorstion.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe.config
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\obj\Debug\Meteorstion.exe
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\obj\Debug\Meteorstion.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\bin\Debug\Meteorstion.exe
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\bin\Debug\Meteorstion.pdb
+D:\E.T. N° 37\Meteorstion\Meteorstion\Meteorstion\obj\Debug\Meteorstion.csprojResolveAssemblyReference.cache
