@@ -1,2 +1,2 @@
-# The whole game
+# Previsualización
 ![alt text](media/meteorstion.gif)
